@@ -1,5 +1,4 @@
-GIT_Setup.ipynb
-*/.env/*
+.env
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
