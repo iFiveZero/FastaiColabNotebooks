@@ -1,6 +1,6 @@
 .env
-.jpg
-.pkl
+*.jpg
+*.pkl
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
